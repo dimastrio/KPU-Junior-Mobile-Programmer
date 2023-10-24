@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KPU</string>
+
+    <string name="description">
+        \tKomisi Pemilihan Umum (selanjutnya disebut KPU) adalah lembaga Penyelenggara Pemilu yang bersifat nasional, tetap, dan mandiri dalam melaksanakan pemilu. Wilayah kerja KPU meliputi seluruh wilayah Negara Kesatuan Republik Indonesia. KPU menjalankan tugasnya secara berkesinambungan dan dalam menyelenggarakan Pemilu, KPU bebas dari pengaruh pihak manapun berkaitan dengan pelaksanaan tugas dan wewenangnya.
+        \n\n\t\tKPU terdiri atas KPU, KPU Provinsi, dan KPU Kabupaten/Kota. Dalam melaksanakan tahapan Pemilu dan Pemilihan Kepala Daerah, KPU membentuk Badan Ad Hoc yang bertugas membantu KPU dalam melaksanakan tahapan Pemilu dan Pemilihan di tingkat Kecamatan (disebut dengan PPK/Panitia Pemilihan Kecamatan), di tingkat Desa (disebut PPS/ Panitia Pemungutan Suara), dan di tingkat TPS / Tempat Pemungutan Suara (disebut KPPS/ Kelompok Penyelenggara Pemungutan Suara). Selain itu, untuk melaksanakan Pemilu di luar negeri, KPU juga dibantu oleh Panitia Pemilihan Luar Negeri (PPLN) dan Kelompok Penyelenggera Pemungutan Suara Luar Negeri (KPPSLN).
+        \n\n\t\tKPU berkedudukan di Ibu Kota Negara Republik Indonesia, KPU Provinsi berkedudukan di ibu kota provinsi, dan KPU Kabupaten/Kota berkedudukan di ibu kota kabupaten/kota.
+    </string>
+
+    <string name="google_maps_key">AIzaSyDGXz7elolkKUjWXXd3mgJLeIok-enQFuM</string>
+
+</resources>
